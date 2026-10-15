@@ -16,9 +16,6 @@ Crafted with pure semantic **HTML5**, **CSS3**, and **vanilla JavaScript** — n
 <!-- Replace the placeholder below with a screenshot of your live website -->
 ![Nisal Athukorala Portfolio Screenshot](assets/screenshot.png)
 
-> _A screenshot of the live website showing the hero section with animated DNA double helix, word-by-word slide entrance, and midnight indigo cards._
-
----
 
 ## ✨ Features & Highlights
 
@@ -61,62 +58,12 @@ nisal-malli/
     ├── photo.png                # Circular profile portrait photograph of Nisal Athukorala
     ├── photo.jpg                # Portrait photograph backup
     ├── Nisal_Athukorala_CV.pdf  # Downloadable Curriculum Vitae (PDF)
-    └── screenshot.png           # (Optional) Portfolio preview screenshot
+    └── screenshot.png           # Portfolio preview screenshot
 ```
 
 ---
 
-## 🚀 How to Host on GitHub Pages (Step-by-Step)
 
-Deploying this portfolio to the web for free with **GitHub Pages** takes less than 3 minutes:
-
-### Step 1: Create a GitHub Repository
-1. Log into your account at [GitHub.com](https://github.com/).
-2. Click the **`+`** icon in the top-right corner and select **New repository**.
-3. Name your repository (e.g. `portfolio` or `nisal-athukorala`).
-4. Set the visibility to **Public**.
-5. Do not initialize with a README (this project already has one).
-6. Click **Create repository**.
-
-### Step 2: Upload or Push the Code
-#### Option A: Using Git CLI in your terminal:
-```bash
-# Navigate to your project folder
-cd "path/to/nial malli"
-
-# Initialize git
-git init
-git add .
-git commit -m "Initial commit: Nisal Athukorala portfolio"
-
-# Rename branch to main
-git branch -M main
-
-# Link to your newly created GitHub repository
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-
-# Push your code
-git push -u origin main
-```
-
-#### Option B: Using GitHub Web Interface:
-1. In your empty repository page, click **uploading an existing file**.
-2. Drag and drop `index.html`, `style.css`, `script.js`, `README.md`, and the `assets/` folder.
-3. Click **Commit changes**.
-
-### Step 3: Enable GitHub Pages
-1. Go to your repository on GitHub and click on **Settings** (top tab).
-2. In the left navigation sidebar, select **Pages** (under the "Code and automation" section).
-3. Under **Build and deployment**:
-   - **Source**: Select `Deploy from a branch`.
-   - **Branch**: Select `main` (or `master`) and folder `/ (root)`.
-4. Click **Save**.
-5. Wait 30–60 seconds. Refresh the page to see your live URL:
-   ```text
-   https://<your-username>.github.io/<your-repo-name>/
-   ```
-
----
 
 ## 📋 Content & Section Details
 
@@ -152,8 +99,3 @@ git push -u origin main
 | **Body Font** | `DM Sans`, sans-serif | Clean, highly legible sans-serif for reading |
 
 ---
-
-## 📄 License & Attribution
-
-Designed and developed for **Nisal Athukorala**. All rights reserved &copy; 2026.
-Free for personal portfolio use and GitHub Pages hosting.
